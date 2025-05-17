@@ -6,7 +6,7 @@ A feature-rich React-based matrix calculator that allows users to **create**, **
 
 ## ✨ Features
 
-- 🔢 Create and name matrices (auto-naming support like `X1`, `X2`, etc.)
+- 🔢 Create and name matrices (auto-naming support like `M1`, `M2`, etc.)
 - 🧮 Perform matrix operations:
   - Addition
   - Subtraction
